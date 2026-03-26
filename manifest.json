@@ -1,0 +1,22 @@
+{
+  "short_name": "Shopee Ads",
+  "name": "Shopee Ads Pro",
+  "description": "Gerenciador de campanhas Shopee com IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A0A00",
+  "theme_color": "#EE4D2D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/192/shopping-cart.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/512/shopping-cart.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
